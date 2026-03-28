@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Luis 😴
 
-<!--
-**luismanfredi/luismanfredi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineering student focused on becoming a solid software developer through consistent study and practical projects.
 
-Here are some ideas to get you started:
+## About me
+- Software Engineering student
+- Currently building projects to strengthen my portfolio
+- Interested in backend development, problem solving, and software design
+- Studying every day to grow from fundamentals to real-world development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Programming Logic
+- Object-Oriented Programming (OOP)
+- Git and GitHub
+- Linux
+
+## Currently learning
+- SQL and Databases
+- C++
+- Portfolio Projects
+- Software development fundamentals in practice
+
+## Goals
+- Get a software development internship
+- Build strong and useful projects
+- Improve my backend and problem-solving skills
+- Become a confident and reliable developer
+
+## Contact
+- LinkedIn: [Luís Antonio Manfredi Sodré](https://www.linkedin.com/in/lu%C3%ADs-antonio-manfredi-sodr%C3%A9/)
+- Email: luismanfredi920@gmail.com
