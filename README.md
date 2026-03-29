@@ -1,12 +1,9 @@
 # Hi, I'm Luis 😴
 
-I'm a Software Engineering student focused on becoming a solid software developer through consistent study and practical projects.
-
 ## About me
 - Software Engineering student
-- Currently building projects to strengthen my portfolio
-- Interested in backend development, problem solving, and software design
-- Studying every day to grow from fundamentals to real-world development
+- Interested in backend development, IA and mathematics
+- Studying every day 😨
 
 ## Skills
 - Python
@@ -23,7 +20,7 @@ I'm a Software Engineering student focused on becoming a solid software develope
 
 ## Goals
 - Get a software development internship
-- Build strong and useful projects
+- Build useful and cool projects
 - Improve my backend and problem-solving skills
 - Become a confident and reliable developer
 
