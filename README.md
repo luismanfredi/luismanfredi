@@ -25,5 +25,5 @@
 - Become a confident and reliable developer
 
 ## Contact
-- LinkedIn: [Luís Antonio Manfredi Sodré](https://www.linkedin.com/in/lu%C3%ADs-antonio-manfredi-sodr%C3%A9/)
+- LinkedIn: [Luís Antonio Manfredi Sodré](https://www.linkedin.com/in/luis-manfredi/)
 - Email: luismanfredi920@gmail.com
