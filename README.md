@@ -14,7 +14,6 @@
 
 ## Currently learning
 - SQL and Databases
-- C++
 - Portfolio Projects
 - Software development fundamentals in practice
 
