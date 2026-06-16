@@ -2,25 +2,29 @@
 
 ## About me
 - Software Engineering student
-- Interested in backend development, IA and mathematics
 - Studying every day 😨
+- Focused on Data Analysis, Data Engineering and AI foundations
 
 ## Skills
+**Data & Analysis**
+- NumPy, Pandas, Jupyter Notebooks
+- SQL
+
+**Programming**
 - Python
-- Programming Logic
-- Object-Oriented Programming (OOP)
-- Git and GitHub
+
+**Tools**
+- Git & GitHub
 - Linux
 
 ## Currently learning
-- SQL and Databases
-- Portfolio Projects
-- Software development fundamentals in practice
+- Building data analysis projects with real datasets
+- Improving my understanding of data pipelines and project structure
+- Strengthening my fundamentals in math and programming
 
 ## Goals
-- Get a software development internship
-- Build useful and cool projects
-- Improve my backend and problem-solving skills
+- Get an internship in data or software engineering
+- Build a strong project portfolio
 - Become a confident and reliable developer
 
 ## Contact
