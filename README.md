@@ -1,4 +1,4 @@
-# Hi, I'm Luis
+# Hi, I'm Luis 🌫
 
 18 y/o Software Engineering student from Brazil, self-directing toward
 data and AI while the university curriculum catches up.
@@ -11,7 +11,8 @@ with "neural" in the name.
 ## What I'm Building
 
 **[ENEM 2023 Socioeconomic Analysis](https://github.com/luismanfredi/enem-analysis)**
-Exploring how income, race, and region shape performance on Brazil's
+
+- Exploring how income, race, and region shape performance on Brazil's
 national university entrance exam. Python, DuckDB, pandas, Seaborn,
 Jupyter
 
@@ -19,11 +20,20 @@ Jupyter
 ## Stack
 
 **Data**
-Python · Pandas · Numpy · SQL · Duckdb · Seaborn · Jupyter
+- Python
+- Pandas, Numpy, Jupyter
+- SQL, DuckDB
+- Seaborn
 
 **Tools**
-Git · Github · Linux
+- Git & Github
+- Linux
 
+## Goals
+
+- Land my first intership
+- Build projects
+- Learn everyday
 
 ## Contact
 - LinkedIn: [Luís Antonio Manfredi Sodré](https://www.linkedin.com/in/luis-manfredi/)
