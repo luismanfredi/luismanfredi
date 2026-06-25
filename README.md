@@ -7,7 +7,6 @@ I learn by building things with real data and real constraints.
 Currently focused on getting solid fundamentals before touching anything
 with "neural" in the name.
 
----
 
 ## What I'm Building
 
@@ -16,7 +15,6 @@ Exploring how income, race, and region shape performance on Brazil's
 national university entrance exam. Python, DuckDB, pandas, Seaborn,
 Jupyter
 
----
 
 ## Stack
 
@@ -26,7 +24,6 @@ Python · Pandas · Numpy · SQL · Duckdb · Seaborn · Jupyter
 **Tools**
 Git · Github · Linux
 
----
 
 ## Contact
 - LinkedIn: [Luís Antonio Manfredi Sodré](https://www.linkedin.com/in/luis-manfredi/)
