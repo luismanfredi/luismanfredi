@@ -1,31 +1,32 @@
-# Hi, I'm Luis 😴
+# Hi, I'm Luis
 
-## About me
-- Software Engineering student
-- Studying every day 😨
-- Focused on Data Analysis, Data Engineering and AI foundations
+18 y/o Software Engineering student from Brazil, self-directing toward
+data and AI while the university curriculum catches up.
 
-## Skills
-**Data & Analysis**
-- NumPy, Pandas, Jupyter Notebooks
-- SQL
+I learn by building things with real data and real constraints.
+Currently focused on getting solid fundamentals before touching anything
+with "neural" in the name.
 
-**Programming**
-- Python
+---
+
+## What I'm Building
+
+**[ENEM 2023 Socioeconomic Analysis](https://github.com/luismanfredi/enem-analysis)**
+Exploring how income, race, and region shape performance on Brazil's
+national university entrance exam. Python, DuckDB, pandas, Seaborn,
+Jupyter
+
+---
+
+## Stack
+
+**Data**
+Python · Pandas · Numpy · SQL · Duckdb · Seaborn · Jupyter
 
 **Tools**
-- Git & GitHub
-- Linux
+Git · Github · Linux
 
-## Currently learning
-- Building data analysis projects with real datasets
-- Improving my understanding of data pipelines and project structure
-- Strengthening my fundamentals in math and programming
-
-## Goals
-- Get an internship in data or software engineering
-- Build a strong project portfolio
-- Become a confident and reliable developer
+---
 
 ## Contact
 - LinkedIn: [Luís Antonio Manfredi Sodré](https://www.linkedin.com/in/luis-manfredi/)
