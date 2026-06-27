@@ -11,10 +11,11 @@ Focused on backend engineering and systems design.
 ## Stack
 
 **Languages**
-- Go
 - Python
 
-- **Backend & Data**
+**Backend & Data**
+- FastAPI
+- WebSockets
 - PostgreSQL
 - SQL, DuckDB
 
