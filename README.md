@@ -15,9 +15,8 @@ Focused on backend engineering and systems design.
 
 **Backend & Data**
 - FastAPI
-- WebSockets
 - PostgreSQL
-- SQL, DuckDB
+- SQL
 
 **Tools**
 - Git & Github
