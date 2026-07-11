@@ -14,6 +14,7 @@ Focused on backend engineering and systems design.
 - Python
 
 **Backend & Data**
+- FastAPI
 - PostgreSQL
 - SQL, SQLAlchemy
 
