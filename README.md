@@ -10,7 +10,7 @@ Focused on backend engineering and systems design.
 
 ## Currently Learning
 - C++
-- Solving daily problems on **LeetCode** 
+- Solving daily problems on LeetCode
 
 ## Stack
 
