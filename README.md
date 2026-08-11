@@ -1,7 +1,7 @@
 # Hi, I'm Luis 🌫
 
 18 y/o Software Engineering student from Brazil.
-Focused on backend engineering and systems design.
+Focused on computational mathematics, and systems programming.
 
 
 ## What I'm Building
