@@ -10,7 +10,7 @@ Focused on computational mathematics, and systems programming.
 *A high-performance linear algebra library built from scratch in C++.*
 
 - **Working on:** I am currently studying/working on Advanced linear algebra algorithms and core C++ architecture.
-- **Next steps:** Release v0.1.0-beta, with more Matrix methods (e.g. `Identity(n)`) and better documentation with Doxygen.
+- **Next steps:** Release v0.1.0-beta, with Gauss elimination, `determinant()`, `inverse` method and more.
 - **Stack:** C++ and CMake.
 
 ## Stack
