@@ -25,12 +25,11 @@ Focused on computational mathematics, and systems programming.
 
 **Tools**
 - Git & Github
-- CMake
 - Linux
 - Docker
 
 ## Goals
-- Land my first intership in backend engineering.
+- Land my first intership.
 - Build projects
 - Study consistently
 
