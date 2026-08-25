@@ -9,8 +9,8 @@ Focused on computational mathematics, and systems programming.
 ### 🌌 [Orion](https://github.com/luismanfredi/orion)
 *A high-performance linear algebra library built from scratch in C++.*
 
-- **Working on:** I am currently studying/working on Advanced linear algebra algorithms and core C++ architecture.
-- **Next steps:** Release v0.1.0-beta, with Matrix element-wise multiplication, basic broadcasting and more!
+- **Working on:** I am currently studying/working on linear algebra algorithms and core C++ architecture.
+- **Next steps:** Release v0.1.0-beta, with better documentation, and general refinement.
 - **Stack:** C++
 
 ## Stack
