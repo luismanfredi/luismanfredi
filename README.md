@@ -1,17 +1,21 @@
 # Hi, I'm Luis 🌫
 
 18 y/o Software Engineering student from Brazil.
-Focused on computational mathematics, and systems programming.
+Focused on Machine Learning, and systems programming.
 
+## Working On...
 
-## What I'm Building
+### 🌠 [Orion](https://github.com/luismanfredi/orion)
+*A high-performance linear algebra library built in C++.*
 
-### 🌌 [Orion](https://github.com/luismanfredi/orion)
-*A high-performance linear algebra library built from scratch in C++.*
-
-- **Working on:** I am currently studying/working on linear algebra algorithms and core C++ architecture.
-- **Next steps:** Release v0.1.0-beta, with better documentation, and general refinement.
+- **Next steps:** Release v0.1.0-beta, improve documentation and refine API.
 - **Stack:** C++
+
+### 🌌 [Cosmic](https://github.com/luismanfredi/cosmic)
+*A Neural Network built from scratch using my own linear algebra library*
+
+- **Next steps:** Build and train a minimal neural network using Orion.
+- **Stack:** Python
 
 ## Stack
 
@@ -30,9 +34,8 @@ Focused on computational mathematics, and systems programming.
 
 ## Goals
 - Land my first intership.
-- Build projects
-- Study consistently
+- Build ML/IA projects.
+- Study consistently.
 
 ## Contact
-- LinkedIn: [Luís Antonio Manfredi Sodré](https://www.linkedin.com/in/luis-manfredi/)
 - Email: [luismanfredi920@gmail.com](mailto:luismanfredi920@gmail.com)
