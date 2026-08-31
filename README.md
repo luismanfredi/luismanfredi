@@ -5,25 +5,25 @@ Focused on Machine Learning, and systems programming.
 
 ## Working On...
 
-### 🌠 [Orion](https://github.com/luismanfredi/orion)
-*A high-performance linear algebra library built in C++ with Python bindings.*
+### 🌌 [Exist](https://github.com/luismanfredi/exist)
+*A data science and machine learning project using the SDSS17 dataset to explore astronomical data and build predictive models.*
 
-- **Next steps:** Release v0.1.0-beta, improve documentation and refine API.
-- **Final Version:** A library with advanced linear algebra and Machine Learning support.
-- **Stack:** C++
-
-### 🌌 [Cosmic](https://github.com/luismanfredi/cosmic)
-*A Neural Network built from scratch using my own linear algebra library*
-
-- **Next steps:** Build and train a minimal neural network using Orion.
-- **Final Version:** A Neural Network that can recognize constellations.
-- **Stack:** Python
+- **Next steps:** Exploration of data.
+- **Final Version:** A multiclass classifier for celestial objects (galaxy, star, quasar) from SDSS17 photometric data, built with scikit-learn.
+- **Stack:** Python · NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn · Jupyter
 
 ## Stack
 
 **Languages**
 - C++
 - Python
+
+**Machine Learning**
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 **Backend & Data**
 - FastAPI
