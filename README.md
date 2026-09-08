@@ -16,10 +16,10 @@ Focused on Machine Learning, and systems programming.
 
 **Languages**
 - Python
-- 
+
 **Machine Learning**
-- scikit-learn
-- 
+- Scikit-learn
+
 **Data**
 - Pandas
 - Matplotlib & Seaborn
