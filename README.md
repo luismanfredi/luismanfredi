@@ -15,14 +15,14 @@ Focused on Machine Learning, and systems programming.
 ## Stack
 
 **Languages**
-- C++
 - Python
-
+- 
 **Machine Learning**
-- NumPy
+- scikit-learn
+- 
+**Data**
 - Pandas
-- Matplotlib
-- Seaborn
+- Matplotlib & Seaborn
 - Jupyter Notebook
 
 **Backend & Data**
