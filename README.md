@@ -10,7 +10,7 @@ Focused on Machine Learning, and systems programming.
 
 - **Next steps:** Exploration of data.
 - **Final Version:** A multiclass classifier for celestial objects (galaxy, star, quasar) from SDSS17 photometric data, built with scikit-learn.
-- **Stack:** Python · NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn · Jupyter
+- **Stack:** Python · NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn · XGBoost · Jupyter
 
 ## Stack
 
@@ -19,6 +19,7 @@ Focused on Machine Learning, and systems programming.
 
 **Machine Learning**
 - Scikit-learn
+- XGBoost
 
 **Data**
 - Pandas
