@@ -8,7 +8,6 @@ Focused on Machine Learning, and systems programming.
 ### 🌌 [Exist](https://github.com/luismanfredi/exist)
 *A data science and machine learning project using the SDSS17 dataset to explore astronomical data and build predictive models.*
 
-- **Next steps:** Exploration of data.
 - **Final Version:** A multiclass classifier for celestial objects (galaxy, star, quasar) from SDSS17 photometric data, built with scikit-learn.
 - **Stack:** Python · NumPy · Pandas · Matplotlib · Seaborn · SciPy · Scikit-learn · XGBoost · Jupyter
 
